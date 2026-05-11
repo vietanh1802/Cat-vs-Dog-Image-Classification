@@ -1,0 +1,10 @@
+{
+  "backbone_name": "vgg16",
+  "pretrained": true,
+  "feature_dim": 512,
+  "split_sizes": {
+    "train": 8022,
+    "val": 1003,
+    "test": 1003
+  }
+}
